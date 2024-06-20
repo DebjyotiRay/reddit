@@ -14,8 +14,8 @@ A quiz-hosting application, where a user can create a quiz-room, allowing multip
 -   [Claim an Issue](#👆-claim-an-issue)
 -   [Communication](#💻-communication)
 -   [License](#🛡️-license)
--   [Contribution Guidelines](#📋-contribution-guidelines)
--   [Mentors](#🤝-Mentors)
+
+
 
 ## 🚀 How It Works:-
 
