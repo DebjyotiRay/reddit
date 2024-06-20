@@ -1,4 +1,4 @@
-# GrepIt-Backend
+# ReddIt-Backend
 
 A quiz-hosting application, where a user can create a quiz-room, allowing multiple others to join the room. The questions can be set manually for that room, and the one with the most right answers win the top-spot on the leaderboard!
 
